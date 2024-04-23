@@ -1,0 +1,21 @@
+.exercise-wrapper .flexbox .wrapper-1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.exercise-wrapper .flexbox .wrapper-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.exercise-wrapper .flexbox .wrapper-3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.exercise-wrapper .flexbox .wrapper-4 {
+  display: flex;
+  flex-direction: row;
+}
