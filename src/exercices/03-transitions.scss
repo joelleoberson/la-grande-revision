@@ -25,3 +25,40 @@
 .card-title {
   font-size: 20px;
 }
+
+.exercise-wrapper .transitions {
+  background: #fff;
+}
+
+.exercise-wrapper .transitions .calltoaction {
+  transition-duration: 0, 5s;
+}
+
+.exercise-wrapper .transitions .calltoaction:hover {
+  transform: scale(1.2);
+}
+
+.button {
+  transition-duration: 1s;
+}
+
+.button:hover {
+  background: #2b98c3;
+  color: #fff;
+}
+
+.card {
+  transition-duration: 1s;
+}
+
+.card:hover {
+  background: #2b98c3;
+}
+
+.card .card-title {
+  transition-duration: 1s;
+}
+
+.card .card-title:hover .card-title {
+  transform: translateX(20px);
+}
