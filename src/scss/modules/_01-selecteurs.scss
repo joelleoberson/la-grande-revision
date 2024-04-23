@@ -1,0 +1,13 @@
+.exercise-wrapper .selectors h2 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.exercise-wrapper .selectors .section .year {
+  color: red;
+}
+
+.exercise-wrapper .selectors h2 .category,
+h3 .year {
+  font-style: italic;
+}
