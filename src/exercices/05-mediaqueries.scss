@@ -17,3 +17,15 @@
 .article-content {
   font-size: 18px;
 }
+
+@media (min-width: 768px) {
+  .article-title {
+    font-size: 45px;
+  }
+}
+
+@media (min-width: 968px) {
+  .article-title {
+    font-size: 60px;
+  }
+}
